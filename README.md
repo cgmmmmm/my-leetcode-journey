@@ -95,7 +95,7 @@
 - `762`. Prime Number of Set Bits in Binary Representation
 - `2839`. Check if Strings Can be Made Equal With Operations I
 
-### Medium (92 Solved)
+### Medium (93 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -188,6 +188,7 @@
 - `3070`. Count Submatrices with Top-Left Element and Sum Less Than k (Suboptimal ✅, Optimal ❌)
 - `2799`. Count Complete Subarrays in an Array
 - `1750`. Minimum Length of String After Deleting Similar Ends
+- `817`. Linked List Components
 
 ### Hard (8 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
