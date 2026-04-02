@@ -190,7 +190,7 @@
 - `1750`. Minimum Length of String After Deleting Similar Ends
 - `817`. Linked List Components
 
-### Hard (8 Solved)
+### Hard (9 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -199,4 +199,4 @@
 - `757`. Set Intersection Size At Least Two (Sort + Greedy ✅)
 - `42`. Trapping Rain Water
 - `4`. Median of Two Sorted Arrays (Suboptimal ✅, Optimal ❌)
-
+- `2296`. Design a Text Editor (Stack ✅, Some other method ❌)
