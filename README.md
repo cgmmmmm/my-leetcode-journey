@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (93 Solved)
+### Easy (94 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -94,6 +94,7 @@
 - `696`. Count Binary Substrings
 - `762`. Prime Number of Set Bits in Binary Representation
 - `2839`. Check if Strings Can be Made Equal With Operations I
+- `3740`. Minimum Distance Between Three Equal Elements I
 
 ### Medium (93 Solved)
 - `49`. Group Anagrams
