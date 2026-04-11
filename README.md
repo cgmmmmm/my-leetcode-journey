@@ -96,7 +96,7 @@
 - `2839`. Check if Strings Can be Made Equal With Operations I
 - `3740`. Minimum Distance Between Three Equal Elements I
 
-### Medium (93 Solved)
+### Medium (94 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -190,6 +190,7 @@
 - `2799`. Count Complete Subarrays in an Array
 - `1750`. Minimum Length of String After Deleting Similar Ends
 - `817`. Linked List Components
+- `3741`. Minimum Distance Between Three Equal Elements II
 
 ### Hard (9 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
