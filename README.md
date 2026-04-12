@@ -96,7 +96,7 @@
 - `2839`. Check if Strings Can be Made Equal With Operations I
 - `3740`. Minimum Distance Between Three Equal Elements I
 
-### Medium (95 Solved)
+### Medium (96 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -192,6 +192,7 @@
 - `817`. Linked List Components
 - `3741`. Minimum Distance Between Three Equal Elements II
 - `2181`. Merge Nodes in Between Zeros
+- `2326`. Spiral Matrix IV
 
 ### Hard (9 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
