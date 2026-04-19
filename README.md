@@ -97,7 +97,7 @@
 - `3740`. Minimum Distance Between Three Equal Elements I
 - `3783`. Mirror Distance of an Integer
 
-### Medium (96 Solved)
+### Medium (97 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -194,6 +194,7 @@
 - `3741`. Minimum Distance Between Three Equal Elements II
 - `2181`. Merge Nodes in Between Zeros
 - `2326`. Spiral Matrix IV
+- `1855`. Maximum Distance Between a Pair of Values (Binary Search ✅, Two Pointers ❌)
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
