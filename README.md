@@ -97,6 +97,7 @@
 - `3740`. Minimum Distance Between Three Equal Elements I
 - `3783`. Mirror Distance of an Integer
 - `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
+- `226`. Invert Binary Tree
 
 ### Medium (98 Solved)
 - `49`. Group Anagrams
