@@ -99,7 +99,7 @@
 - `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
 - `226`. Invert Binary Tree
 
-### Medium (102 Solved)
+### Medium (103 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -202,6 +202,7 @@
 - `48`. Rotate Image
 - `39`. Combination Sum
 - `61`. Rotate List
+- `1861`. Rotating the Box
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
