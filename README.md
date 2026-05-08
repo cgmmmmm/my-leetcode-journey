@@ -203,7 +203,7 @@
 - `39`. Combination Sum
 - `61`. Rotate List
 - `1861`. Rotating the Box
-- `50`. Pow(x, n) (Built-in func✅, other way❌)
+- `50`. Pow(x, n) (Built-in func✅, Recursion✅)
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
