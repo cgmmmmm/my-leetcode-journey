@@ -99,7 +99,7 @@
 - `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
 - `226`. Invert Binary Tree
 
-### Medium (106 Solved)
+### Medium (107 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -206,6 +206,7 @@
 - `50`. Pow(x, n) (Built-in func✅, Recursion✅)
 - `3211`. Generate Binary Strings Without Adjacent Zeros
 - `17`. Letter Combinations of a Phone Number
+- `701`. Insert into a Binary Search Tree (Messy sol✅, Optimal sol❌)
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
