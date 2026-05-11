@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (97 Solved)
+### Easy (98 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -98,6 +98,7 @@
 - `3783`. Mirror Distance of an Integer
 - `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
 - `226`. Invert Binary Tree
+- `2553`. Separate the Digits in an Array
 
 ### Medium (107 Solved)
 - `49`. Group Anagrams
