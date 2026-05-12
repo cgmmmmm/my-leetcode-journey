@@ -100,7 +100,7 @@
 - `226`. Invert Binary Tree
 - `2553`. Separate the Digits in an Array
 
-### Medium (107 Solved)
+### Medium (108 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -208,6 +208,7 @@
 - `3211`. Generate Binary Strings Without Adjacent Zeros
 - `17`. Letter Combinations of a Phone Number
 - `701`. Insert into a Binary Search Tree (Messy sol✅, Optimal sol❌)
+- `451`. Sort Characters By Frequency
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
