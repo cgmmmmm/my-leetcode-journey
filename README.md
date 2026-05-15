@@ -101,7 +101,7 @@
 - `2553`. Separate the Digits in an Array
 - `2784`. Check if Array is Good
 
-### Medium (109 Solved)
+### Medium (110 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -211,6 +211,7 @@
 - `701`. Insert into a Binary Search Tree (Messy sol✅, Optimal sol❌)
 - `451`. Sort Characters By Frequency
 - `513`. Find Bottom Left Tree Value
+- `3895`. Count Digit Appearances
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
