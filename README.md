@@ -213,7 +213,7 @@
 - `513`. Find Bottom Left Tree Value
 - `3895`. Count Digit Appearances
 
-### Hard (10 Solved)
+### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -224,3 +224,4 @@
 - `42`. Trapping Rain Water
 - `4`. Median of Two Sorted Arrays (Suboptimal ✅, Optimal ❌)
 - `2296`. Design a Text Editor (Stack ✅, Some other method ❌)
+- `154`. Find Minimum in Rotated Sorted Array II (Linear Scanning✅, Binary Search✅, Divide and Conquer❌)
