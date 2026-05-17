@@ -225,3 +225,6 @@
 - `4`. Median of Two Sorted Arrays (Suboptimal ✅, Optimal ❌)
 - `2296`. Design a Text Editor (Stack ✅, Some other method ❌)
 - `154`. Find Minimum in Rotated Sorted Array II (Linear Scanning✅, Binary Search✅, Divide and Conquer❌)
+
+### Weekly Contest
+* WC502 (✅, ✅, ❌, ❌)
