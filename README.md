@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (101 Solved)
+### Easy (102 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -102,6 +102,7 @@
 - `2784`. Check if Array is Good
 - `3931`. Check Adjacent Digit Differences
 - `3668`. Restore Finishing Order
+- `2540`. Minimum Common Value
 
 ### Medium (111 Solved)
 - `49`. Group Anagrams
