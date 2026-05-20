@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (103 Solved)
+### Easy (104 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -104,6 +104,7 @@
 - `3668`. Restore Finishing Order
 - `2540`. Minimum Common Value
 - `812`. Largest Triangle Area
+- `3925`. Concatenate Array With Reverse
 
 ### Medium (112 Solved)
 - `49`. Group Anagrams
