@@ -105,7 +105,7 @@
 - `2540`. Minimum Common Value
 - `812`. Largest Triangle Area
 
-### Medium (111 Solved)
+### Medium (112 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -217,6 +217,7 @@
 - `513`. Find Bottom Left Tree Value
 - `3895`. Count Digit Appearances
 - `3932`. Count K-th Roots in a Range
+- `2657`. Find the Prefix Common Array of Two Arrays
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
