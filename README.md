@@ -106,7 +106,7 @@
 - `812`. Largest Triangle Area
 - `3925`. Concatenate Array With Reverse
 
-### Medium (114 Solved)
+### Medium (115 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -221,6 +221,7 @@
 - `2657`. Find the Prefix Common Array of Two Arrays
 - `3926`. Count Valid Word Occurrences
 - `3927`. Minimize Array Sum Using Divisible Replacements
+- `3043`. Find the Length of the Longest Common Prefix
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
