@@ -106,6 +106,7 @@
 - `812`. Largest Triangle Area
 - `3925`. Concatenate Array With Reverse
 - `3921`. Score Validator
+- `1752`. Check if Array Is Sorted and Rotated
 
 ### Medium (117 Solved)
 - `49`. Group Anagrams
