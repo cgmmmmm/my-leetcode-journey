@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (107 Solved)
+### Easy (108 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -108,8 +108,9 @@
 - `3921`. Score Validator
 - `1752`. Check if Array Is Sorted and Rotated
 - `3908`. Valid Digit Number
+- `3936`. Minimum Swaps to Move Zeros to End
 
-### Medium (118 Solved)
+### Medium (119 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -228,6 +229,7 @@
 - `3922`. Minimum Flips to Make Binary String Coherent
 - `3923`. Minimum Generations to Target Point
 - `3909`. Compare Sums of Bitonic Parts
+- `3937`. Minimum Operations to Make Array Modulo Alternating I
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -244,3 +246,6 @@
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
+
+## Biweekly Contest
+* BWC183 (✅, ✅, ❌, ❌)
