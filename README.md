@@ -112,7 +112,7 @@
 - `3940`. Limit Occurrences in Sorted Array
 - `3120`. Count the Number of Special Characters I
 
-### Medium (123 Solved)
+### Medium (124 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -236,6 +236,7 @@
 - `3942`. Minimum Operations to Sort a Permutation
 - `34`. Find First and Last Position of Element in Sorted Array
 - `3121`. Count the Number of Special Characters II
+- `973`. K Closest Points to Origin (HashTable + Sorting✅, Quickselect✅)
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
