@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (110 Solved)
+### Easy (111 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -111,6 +111,7 @@
 - `3936`. Minimum Swaps to Move Zeros to End
 - `3940`. Limit Occurrences in Sorted Array
 - `3120`. Count the Number of Special Characters I
+- `3300`. Minimum Element After Replacement With Digit Sum
 
 ### Medium (124 Solved)
 - `49`. Group Anagrams
