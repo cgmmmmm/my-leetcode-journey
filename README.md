@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (111 Solved)
+### Easy (112 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -112,6 +112,7 @@
 - `3940`. Limit Occurrences in Sorted Array
 - `3120`. Count the Number of Special Characters I
 - `3300`. Minimum Element After Replacement With Digit Sum
+- `3798`. Largest Even Number
 
 ### Medium (124 Solved)
 - `49`. Group Anagrams
