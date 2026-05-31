@@ -114,7 +114,7 @@
 - `3300`. Minimum Element After Replacement With Digit Sum
 - `3798`. Largest Even Number
 
-### Medium (124 Solved)
+### Medium (125 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -239,6 +239,7 @@
 - `34`. Find First and Last Position of Element in Sorted Array
 - `3121`. Count the Number of Special Characters II
 - `973`. K Closest Points to Origin (HashTable + Sorting✅, Quickselect✅)
+- `2126`. Destroying Asteroids
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
