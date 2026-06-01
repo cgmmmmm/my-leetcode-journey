@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (112 Solved)
+### Easy (113 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -113,6 +113,7 @@
 - `3120`. Count the Number of Special Characters I
 - `3300`. Minimum Element After Replacement With Digit Sum
 - `3798`. Largest Even Number
+- `2144`. Minimum Cost of Buying Candies With Discount
 
 ### Medium (125 Solved)
 - `49`. Group Anagrams
