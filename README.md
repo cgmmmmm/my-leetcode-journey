@@ -116,7 +116,7 @@
 - `2144`. Minimum Cost of Buying Candies With Discount
 - `3633`. Earliest Finish Time for Land and Water Rides I
 
-### Medium (125 Solved)
+### Medium (126 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -242,6 +242,7 @@
 - `3121`. Count the Number of Special Characters II
 - `973`. K Closest Points to Origin (HashTable + Sorting✅, Quickselect✅)
 - `2126`. Destroying Asteroids
+- `3635`. Earliest Finish Time for Land and Water Rides II
 
 ### Hard (11 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
