@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (116 Solved)
+### Easy (117 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -117,8 +117,9 @@
 - `3633`. Earliest Finish Time for Land and Water Rides I
 - `2574`. Left and Right Sum Differences
 - `3894`. Traffic Signal Color
+- `3950`. Exactly One Consecutive Set Bits Pair
 
-### Medium (130 Solved)
+### Medium (132 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -249,6 +250,8 @@
 - `1115`. Print FooBar Alternately
 - `3896`. Minimum Operations to Transform Array into Alternating Prime
 - `3835`. Count Subarrays With Cost Less Than or Equal to K
+- `3951`. Minimum Energy to Maintain Brightness
+- `3952`. Maximum Total Value of Covered Indices
 
 ### Hard (12 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -270,3 +273,4 @@
 
 ## Biweekly Contest
 * BWC183 (✅, ✅, ❌, ❌)
+* BWC184 (✅, ✅, ✅, ❌)
