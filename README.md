@@ -118,7 +118,7 @@
 - `2574`. Left and Right Sum Differences
 - `3894`. Traffic Signal Color
 
-### Medium (129 Solved)
+### Medium (130 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -248,6 +248,7 @@
 - `3751`. Total Waviness of Numbers in Range I
 - `1115`. Print FooBar Alternately
 - `3896`. Minimum Operations to Transform Array into Alternating Prime
+- `3835`. Count Subarrays With Cost Less Than or Equal to K
 
 ### Hard (12 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
