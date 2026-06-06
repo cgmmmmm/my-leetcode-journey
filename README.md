@@ -271,6 +271,6 @@
 * WC502 (✅, ✅, ❌, ❌)
 * WC503 (✅, ✅, ✅, ❌)
 
-## Biweekly Contest
+### Biweekly Contest
 * BWC183 (✅, ✅, ❌, ❌)
 * BWC184 (✅, ✅, ✅, ❌)
