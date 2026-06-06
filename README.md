@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (114 Solved)
+### Easy (115 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -115,6 +115,7 @@
 - `3798`. Largest Even Number
 - `2144`. Minimum Cost of Buying Candies With Discount
 - `3633`. Earliest Finish Time for Land and Water Rides I
+- `2574`. Left and Right Sum Differences
 
 ### Medium (128 Solved)
 - `49`. Group Anagrams
