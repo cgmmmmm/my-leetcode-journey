@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (117 Solved)
+### Easy (118 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -118,8 +118,9 @@
 - `2574`. Left and Right Sum Differences
 - `3894`. Traffic Signal Color
 - `3950`. Exactly One Consecutive Set Bits Pair
+- `3954`. Sum of Compatible Numbers in Range I
 
-### Medium (132 Solved)
+### Medium (133 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -252,8 +253,9 @@
 - `3835`. Count Subarrays With Cost Less Than or Equal to K
 - `3951`. Minimum Energy to Maintain Brightness
 - `3952`. Maximum Total Value of Covered Indices
+- `3955`. Valid Binary Strings With Cost Limit
 
-### Hard (12 Solved)
+### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -266,11 +268,13 @@
 - `2296`. Design a Text Editor (Stack ✅, Some other method ❌)
 - `154`. Find Minimum in Rotated Sorted Array II (Linear Scanning✅, Binary Search✅, Divide and Conquer❌)
 - `3897`. Maximum Value of Concatenated Binary Segments
+- `3956`. Maximum Sum of M Non-Overlapping Subarrays I
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
 * WC503 (✅, ✅, ✅, ❌)
+* WC505 (✅, ✅, ✅, ❌)
 
 ### Biweekly Contest
-* BWC183 (✅, ✅, ❌, ❌)
+* BWC183 (✅, ✅, ❌, ❌) [Unrated due to site issues]
 * BWC184 (✅, ✅, ✅, ❌)
