@@ -120,7 +120,7 @@
 - `3950`. Exactly One Consecutive Set Bits Pair
 - `3954`. Sum of Compatible Numbers in Range I
 
-### Medium (133 Solved)
+### Medium (134 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -254,6 +254,7 @@
 - `3951`. Minimum Energy to Maintain Brightness
 - `3952`. Maximum Total Value of Covered Indices
 - `3955`. Valid Binary Strings With Cost Limit
+- `2196`. Create Binary Tree From Descriptions
 
 ### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
