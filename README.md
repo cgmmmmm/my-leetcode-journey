@@ -121,7 +121,7 @@
 - `3954`. Sum of Compatible Numbers in Range I
 - `1768`. Merge Strings Alternately
 
-### Medium (135 Solved)
+### Medium (136 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -257,6 +257,7 @@
 - `3955`. Valid Binary Strings With Cost Limit
 - `2196`. Create Binary Tree From Descriptions
 - `2161`. Partition Array According to Given Pivot (3-Pass✅, 1-Pass✅)
+- `1657`. Determine if Two Strings Are Close
 
 ### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
