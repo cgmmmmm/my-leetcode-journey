@@ -258,6 +258,7 @@
 - `2196`. Create Binary Tree From Descriptions
 - `2161`. Partition Array According to Given Pivot (3-Pass✅, 1-Pass✅)
 - `1657`. Determine if Two Strings Are Close
+- `3689`. Maximum Total Subarray Value I
 
 ### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
