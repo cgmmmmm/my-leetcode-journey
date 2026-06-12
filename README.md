@@ -121,7 +121,7 @@
 - `3954`. Sum of Compatible Numbers in Range I
 - `1768`. Merge Strings Alternately
 
-### Medium (139 Solved)
+### Medium (140 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -261,6 +261,7 @@
 - `3689`. Maximum Total Subarray Value I
 - `437`. Path Sum III
 - `114`. Flatten Binary Tree to Linked List
+- `162`. Find Peak Element
 
 ### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
