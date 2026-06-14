@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (120 Solved)
+### Easy (121 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -121,8 +121,9 @@
 - `3954`. Sum of Compatible Numbers in Range I
 - `1768`. Merge Strings Alternately
 - `3838`. Weighted Word Mapping
+- `3959`. Check Good Integer
 
-### Medium (141 Solved)
+### Medium (143 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -264,6 +265,8 @@
 - `114`. Flatten Binary Tree to Linked List
 - `162`. Find Peak Element
 - `328`. Odd Even Linked List
+- `3960`. Frequency Balance Subarray
+- `3961`. Maximize Sum of Device Ratings
 
 ### Hard (13 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -284,6 +287,7 @@
 * WC502 (✅, ✅, ❌, ❌)
 * WC503 (✅, ✅, ✅, ❌)
 * WC505 (✅, ✅, ✅, ❌)
+* WC506 (✅, ✅, ✅, ❌)
 
 ### Biweekly Contest
 * BWC183 (✅, ✅, ❌, ❌) [Unrated due to site issues]
