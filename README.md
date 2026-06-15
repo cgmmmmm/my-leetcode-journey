@@ -268,7 +268,7 @@
 - `3960`. Frequency Balance Subarray
 - `3961`. Maximize Sum of Device Ratings
 
-### Hard (13 Solved)
+### Hard (14 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -282,6 +282,7 @@
 - `154`. Find Minimum in Rotated Sorted Array II (Linear Scanning✅, Binary Search✅, Divide and Conquer❌)
 - `3897`. Maximum Value of Concatenated Binary Segments
 - `3956`. Maximum Sum of M Non-Overlapping Subarrays I
+- `295`. Find Median from Data Stream
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
