@@ -123,7 +123,7 @@
 - `3838`. Weighted Word Mapping
 - `3959`. Check Good Integer
 
-### Medium (143 Solved)
+### Medium (144 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -267,6 +267,7 @@
 - `328`. Odd Even Linked List
 - `3960`. Frequency Balance Subarray
 - `3961`. Maximize Sum of Device Ratings
+- `2095`. Delete the Middle Node of a Linked List
 
 ### Hard (14 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
