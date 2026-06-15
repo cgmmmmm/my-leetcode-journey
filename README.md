@@ -123,7 +123,7 @@
 - `3838`. Weighted Word Mapping
 - `3959`. Check Good Integer
 
-### Medium (144 Solved)
+### Medium (145 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -268,6 +268,7 @@
 - `3960`. Frequency Balance Subarray
 - `3961`. Maximize Sum of Device Ratings
 - `2095`. Delete the Middle Node of a Linked List
+- `215`. Kth Largest Element in an Array (IntroSelect/Quickselect✅, Sorting✅, Heap✅)
 
 ### Hard (14 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -283,7 +284,7 @@
 - `154`. Find Minimum in Rotated Sorted Array II (Linear Scanning✅, Binary Search✅, Divide and Conquer❌)
 - `3897`. Maximum Value of Concatenated Binary Segments
 - `3956`. Maximum Sum of M Non-Overlapping Subarrays I
-- `295`. Find Median from Data Stream
+- `295`. Find Median from Data Stream (Insertion✅, Heap✅)
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
