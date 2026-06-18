@@ -123,7 +123,7 @@
 - `3838`. Weighted Word Mapping
 - `3959`. Check Good Integer
 
-### Medium (148 Solved)
+### Medium (149 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -272,6 +272,7 @@
 - `3612`. Process String with Special Operations I
 - `1845`. Seat Reservation Manager
 - `2182`. Construct String With Repeat Limit
+- `1344`. Angle Between Hands of a Clock
 
 ### Hard (14 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
