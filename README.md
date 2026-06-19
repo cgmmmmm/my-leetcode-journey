@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (121 Solved)
+### Easy (122 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -122,6 +122,7 @@
 - `1768`. Merge Strings Alternately
 - `3838`. Weighted Word Mapping
 - `3959`. Check Good Integer
+- `1732`. Find the Highest Altitude
 
 ### Medium (149 Solved)
 - `49`. Group Anagrams
