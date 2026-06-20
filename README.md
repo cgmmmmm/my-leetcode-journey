@@ -275,7 +275,7 @@
 - `2182`. Construct String With Repeat Limit
 - `1344`. Angle Between Hands of a Clock
 
-### Hard (14 Solved)
+### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -290,6 +290,7 @@
 - `3897`. Maximum Value of Concatenated Binary Segments
 - `3956`. Maximum Sum of M Non-Overlapping Subarrays I
 - `295`. Find Median from Data Stream (Insertion✅, Heap✅)
+- `1840`. Maximum Building Height
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
