@@ -125,7 +125,7 @@
 - `1732`. Find the Highest Altitude
 - `3963`. Create Grid With Exactly One Path
 
-### Medium (151 Solved)
+### Medium (154 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -277,6 +277,9 @@
 - `1344`. Angle Between Hands of a Clock
 - `3964`. Minimum Lights to Illuminate a Road
 - `3965`. Finish Time of Tasks I
+- `3968`. Maximum Manhattan Distance After All Moves
+- `3969`. Valid Subarrays With Matching Sum Digits I
+- `3970`. Shortest Path With At Most K Consecutive Identical Characters
 
 ### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -300,6 +303,7 @@
 * WC503 (✅, ✅, ✅, ❌)
 * WC505 (✅, ✅, ✅, ❌)
 * WC506 (✅, ✅, ✅, ❌) [Unrated due to bad problem description]
+* WC507 (✅, ✅, ✅, ❌)
 
 ### Biweekly Contest
 * BWC183 (✅, ✅, ❌, ❌) [Unrated due to site issues]
