@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (122 Solved)
+### Easy (123 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -123,8 +123,9 @@
 - `3838`. Weighted Word Mapping
 - `3959`. Check Good Integer
 - `1732`. Find the Highest Altitude
+- `3963`. Create Grid With Exactly One Path
 
-### Medium (149 Solved)
+### Medium (151 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -274,6 +275,8 @@
 - `1845`. Seat Reservation Manager
 - `2182`. Construct String With Repeat Limit
 - `1344`. Angle Between Hands of a Clock
+- `3964`. Minimum Lights to Illuminate a Road
+- `3965`. Finish Time of Tasks I
 
 ### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
@@ -296,8 +299,9 @@
 * WC502 (✅, ✅, ❌, ❌)
 * WC503 (✅, ✅, ✅, ❌)
 * WC505 (✅, ✅, ✅, ❌)
-* WC506 (✅, ✅, ✅, ❌)
+* WC506 (✅, ✅, ✅, ❌) [Unrated due to bad problem description]
 
 ### Biweekly Contest
 * BWC183 (✅, ✅, ❌, ❌) [Unrated due to site issues]
 * BWC184 (✅, ✅, ✅, ❌)
+* BWC185 (✅, ✅, ✅, ❌)
