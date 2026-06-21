@@ -125,7 +125,7 @@
 - `1732`. Find the Highest Altitude
 - `3963`. Create Grid With Exactly One Path
 
-### Medium (154 Solved)
+### Medium (155 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -280,6 +280,7 @@
 - `3968`. Maximum Manhattan Distance After All Moves
 - `3969`. Valid Subarrays With Matching Sum Digits I
 - `3970`. Shortest Path With At Most K Consecutive Identical Characters
+- `1833`. Maximum Ice Cream Bars
 
 ### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
