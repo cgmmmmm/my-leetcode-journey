@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (123 Solved)
+### Easy (124 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -124,6 +124,7 @@
 - `3959`. Check Good Integer
 - `1732`. Find the Highest Altitude
 - `3963`. Create Grid With Exactly One Path
+- `1189`. Maximum Number of Balloons
 
 ### Medium (155 Solved)
 - `49`. Group Anagrams
