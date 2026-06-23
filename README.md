@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (124 Solved)
+### Easy (125 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -125,6 +125,7 @@
 - `1732`. Find the Highest Altitude
 - `3963`. Create Grid With Exactly One Path
 - `1189`. Maximum Number of Balloons
+- `70`. Climbing Stairs
 
 ### Medium (155 Solved)
 - `49`. Group Anagrams
