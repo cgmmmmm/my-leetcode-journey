@@ -125,7 +125,7 @@
 - `1732`. Find the Highest Altitude
 - `3963`. Create Grid With Exactly One Path
 - `1189`. Maximum Number of Balloons
-- `70`. Climbing Stairs
+- `70`. Climbing Stairs (Three Pointers✅, DP Top-Down (Memo)✅, DP Bottom-up (Tabulation)❌)
 
 ### Medium (155 Solved)
 - `49`. Group Anagrams
