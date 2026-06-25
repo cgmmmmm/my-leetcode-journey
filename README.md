@@ -127,7 +127,7 @@
 - `1189`. Maximum Number of Balloons
 - `70`. Climbing Stairs (Three Pointers✅, DP Top-Down (Memo)✅, DP Bottom-up (Tabulation)❌)
 
-### Medium (156 Solved)
+### Medium (157 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -284,6 +284,7 @@
 - `3970`. Shortest Path With At Most K Consecutive Identical Characters
 - `1833`. Maximum Ice Cream Bars
 - `64`. Minimum Path Sum
+- `3737`. Count Subarrays With Majority Element I
 
 ### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
