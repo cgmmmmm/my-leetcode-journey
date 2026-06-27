@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (125 Solved)
+### Easy (126 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -126,6 +126,7 @@
 - `3963`. Create Grid With Exactly One Path
 - `1189`. Maximum Number of Balloons
 - `70`. Climbing Stairs (Three Pointers✅, DP Top-Down (Memo)✅, DP Bottom-up (Tabulation)❌)
+- `83`. Remove Duplicates from Sorted List
 
 ### Medium (158 Solved)
 - `49`. Group Anagrams
