@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (126 Solved)
+### Easy (127 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -127,6 +127,7 @@
 - `1189`. Maximum Number of Balloons
 - `70`. Climbing Stairs (Three Pointers✅, DP Top-Down (Memo)✅, DP Bottom-up (Tabulation)❌)
 - `83`. Remove Duplicates from Sorted List
+- `1967`. Number of Strings That Appear as Substrings in Word
 
 ### Medium (160 Solved)
 - `49`. Group Anagrams
