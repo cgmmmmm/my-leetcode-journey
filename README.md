@@ -128,7 +128,7 @@
 - `70`. Climbing Stairs (Three Pointers✅, DP Top-Down (Memo)✅, DP Bottom-up (Tabulation)❌)
 - `83`. Remove Duplicates from Sorted List
 
-### Medium (159 Solved)
+### Medium (160 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -288,6 +288,7 @@
 - `3737`. Count Subarrays With Majority Element I
 - `7`. Reverse Integer
 - `1669`. Merge In Between Linked Lists
+- `1721`. Swapping Nodes in a Linked List
 
 ### Hard (15 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
