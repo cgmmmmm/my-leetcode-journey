@@ -129,7 +129,7 @@
 - `83`. Remove Duplicates from Sorted List
 - `1967`. Number of Strings That Appear as Substrings in Word
 
-### Medium (162 Solved)
+### Medium (163 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -292,6 +292,7 @@
 - `1721`. Swapping Nodes in a Linked List
 - `1019`. Next Greater Node In Linked List
 - `912`. Sort an Array
+- `148`. Sort List
 
 ### Hard (16 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
