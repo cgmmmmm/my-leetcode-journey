@@ -131,7 +131,7 @@
 - `2703`. Return Length of Arguments Passed
 - `3754`. Concatenate Non-Zero Digits and Multiply by Sum I
 
-### Medium (165 Solved)
+### Medium (166 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -297,6 +297,7 @@
 - `148`. Sort List
 - `1288`. Remove Covered Intervals
 - `2300`. Successful Pairs of Spells and Potions
+- `1456`. Maximum Number of Vowels in a Substring of Given Length
 
 ### Hard (16 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
