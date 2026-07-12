@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (129 Solved)
+### Easy (130 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -130,6 +130,7 @@
 - `1967`. Number of Strings That Appear as Substrings in Word
 - `2703`. Return Length of Arguments Passed
 - `3754`. Concatenate Non-Zero Digits and Multiply by Sum I
+- `1331`. Rank Transform of an Array
 
 ### Medium (169 Solved)
 - `49`. Group Anagrams
