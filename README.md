@@ -132,7 +132,7 @@
 - `3754`. Concatenate Non-Zero Digits and Multiply by Sum I
 - `1331`. Rank Transform of an Array
 
-### Medium (169 Solved)
+### Medium (170 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -302,6 +302,7 @@
 - `2079`. Watering Plants
 - `3760`. Maximum Substrings With Distinct Start
 - `2396`. Strictly Palindromic Number
+- `1291`. Sequential Digits
 
 ### Hard (16 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
