@@ -133,7 +133,7 @@
 - `1331`. Rank Transform of an Array
 - `2148`. Count Elements With Strictly Smaller and Greater Elements 
 
-### Medium (171 Solved)
+### Medium (172 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -305,6 +305,7 @@
 - `2396`. Strictly Palindromic Number
 - `1291`. Sequential Digits
 - `2149`. Rearrange Array Elements by Sign
+- `2150`. Find All Lonely Numbers in the Array
 
 ### Hard (16 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
