@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (131 Solved)
+### Easy (132 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -132,6 +132,7 @@
 - `3754`. Concatenate Non-Zero Digits and Multiply by Sum I
 - `1331`. Rank Transform of an Array
 - `2148`. Count Elements With Strictly Smaller and Greater Elements 
+- `3658`. GCD of Odd and Even Sums
 
 ### Medium (172 Solved)
 - `49`. Group Anagrams
