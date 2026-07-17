@@ -309,7 +309,7 @@
 - `2150`. Find All Lonely Numbers in the Array
 - `3867`. Sum of GCD of Formed Pairs (Naive✅, Optimal❌)
 
-### Hard (16 Solved)
+### Hard (17 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -326,6 +326,7 @@
 - `295`. Find Median from Data Stream (Insertion✅, Heap✅)
 - `1840`. Maximum Building Height
 - `23`. Merge k Sorted Lists
+- `3312`. Sorted GCD Pair Queries
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
