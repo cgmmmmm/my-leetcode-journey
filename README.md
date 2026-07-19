@@ -135,7 +135,7 @@
 - `3658`. GCD of Odd and Even Sums
 - `1979`. Find Greatest Common Divisor of Array
 
-### Medium (173 Solved)
+### Medium (174 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -309,6 +309,7 @@
 - `2149`. Rearrange Array Elements by Sign
 - `2150`. Find All Lonely Numbers in the Array
 - `3867`. Sum of GCD of Formed Pairs (Naive✅, Optimal❌)
+- `1081`. Smallest Subsequence of Distinct Characters
 
 ### Hard (17 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
