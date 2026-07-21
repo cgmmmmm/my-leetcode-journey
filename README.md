@@ -314,7 +314,7 @@
 - `316`. Remove Duplicate Letters
 - `3676`. Count Bowl Subarrays
 
-### Hard (17 Solved)
+### Hard (18 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -332,6 +332,7 @@
 - `1840`. Maximum Building Height
 - `23`. Merge k Sorted Lists
 - `3312`. Sorted GCD Pair Queries
+- `857`. Minimum Cost to Hire K Workers
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
