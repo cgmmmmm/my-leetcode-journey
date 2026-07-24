@@ -136,7 +136,7 @@
 - `1979`. Find Greatest Common Divisor of Array
 - `1260`. Shift 2D Grid
 
-### Medium (178 Solved)
+### Medium (179 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -315,6 +315,7 @@
 - `3676`. Count Bowl Subarrays
 - `3523`. Make Array Non-decreasing
 - `38`. Count and Say
+- `2058`. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
 ### Hard (18 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
