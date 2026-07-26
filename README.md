@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (135 Solved)
+### Easy (136 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -136,6 +136,7 @@
 - `1979`. Find Greatest Common Divisor of Array
 - `1260`. Shift 2D Grid
 - `3536`. Maximum Product of Two Digits
+- `628`. Maximum Product of Three Numbers
 
 ### Medium (179 Solved)
 - `49`. Group Anagrams
