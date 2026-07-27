@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (136 Solved)
+### Easy (137 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -137,6 +137,7 @@
 - `1260`. Shift 2D Grid
 - `3536`. Maximum Product of Two Digits
 - `628`. Maximum Product of Three Numbers
+- `1464`. Maximum Product of Two Elements in an Array
 
 ### Medium (179 Solved)
 - `49`. Group Anagrams
