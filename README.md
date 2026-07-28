@@ -139,7 +139,7 @@
 - `628`. Maximum Product of Three Numbers
 - `1464`. Maximum Product of Two Elements in an Array
 
-### Medium (179 Solved)
+### Medium (180 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -319,6 +319,7 @@
 - `3523`. Make Array Non-decreasing
 - `38`. Count and Say
 - `2058`. Find the Minimum and Maximum Number of Nodes Between Critical Points
+- `3517`. Smallest Palindromic Rearrangement I
 
 ### Hard (18 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
