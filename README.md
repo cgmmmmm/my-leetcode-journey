@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (137 Solved)
+### Easy (138 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -138,6 +138,7 @@
 - `3536`. Maximum Product of Two Digits
 - `628`. Maximum Product of Three Numbers
 - `1464`. Maximum Product of Two Elements in an Array
+- `3014`. Minimum Number of Pushes to Type Word I
 
 ### Medium (180 Solved)
 - `49`. Group Anagrams
@@ -321,7 +322,7 @@
 - `2058`. Find the Minimum and Maximum Number of Nodes Between Critical Points
 - `3517`. Smallest Palindromic Rearrangement I
 
-### Hard (18 Solved)
+### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -340,6 +341,7 @@
 - `23`. Merge k Sorted Lists
 - `3312`. Sorted GCD Pair Queries
 - `857`. Minimum Cost to Hire K Workers
+- `3518`. Smallest Palindromic Rearrangement II
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
