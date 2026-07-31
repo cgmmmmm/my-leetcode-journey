@@ -140,7 +140,7 @@
 - `1464`. Maximum Product of Two Elements in an Array
 - `3014`. Minimum Number of Pushes to Type Word I
 
-### Medium (180 Solved)
+### Medium (181 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -321,6 +321,7 @@
 - `38`. Count and Say
 - `2058`. Find the Minimum and Maximum Number of Nodes Between Critical Points
 - `3517`. Smallest Palindromic Rearrangement I
+- `3016`. Minimum Number of Pushes to Type Word II
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
