@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (138 Solved)
+### Easy (139 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -139,6 +139,7 @@
 - `628`. Maximum Product of Three Numbers
 - `1464`. Maximum Product of Two Elements in an Array
 - `3014`. Minimum Number of Pushes to Type Word I
+- `3898`. Find the Degree of Each Vertex
 
 ### Medium (181 Solved)
 - `49`. Group Anagrams
