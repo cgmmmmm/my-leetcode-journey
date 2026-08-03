@@ -142,7 +142,7 @@
 - `3898`. Find the Degree of Each Vertex
 - `645`. Set Mismatch
 
-### Medium (181 Solved)
+### Medium (182 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -324,6 +324,7 @@
 - `2058`. Find the Minimum and Maximum Number of Nodes Between Critical Points
 - `3517`. Smallest Palindromic Rearrangement I
 - `3016`. Minimum Number of Pushes to Type Word II
+- `382`. Linked List Random Node
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
