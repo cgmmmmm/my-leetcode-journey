@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (140 Solved)
+### Easy (141 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -141,6 +141,7 @@
 - `3014`. Minimum Number of Pushes to Type Word I
 - `3898`. Find the Degree of Each Vertex
 - `645`. Set Mismatch
+- `3731`. Find Missing Elements
 
 ### Medium (182 Solved)
 - `49`. Group Anagrams
