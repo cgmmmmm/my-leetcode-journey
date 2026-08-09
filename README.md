@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (142 Solved)
+### Easy (143 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -143,6 +143,7 @@
 - `645`. Set Mismatch
 - `3731`. Find Missing Elements
 - `3345`. Smallest Divisible Digit Product I
+- `2006`. Count Number of Pairs With Absolute Difference K
 
 ### Medium (186 Solved)
 - `49`. Group Anagrams
