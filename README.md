@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (144 Solved)
+### Easy (145 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -145,6 +145,7 @@
 - `3345`. Smallest Divisible Digit Product I
 - `2006`. Count Number of Pairs With Absolute Difference K
 - `1502`. Can Make Arithmetic Progression From Sequence
+- `2485`. Find the Pivot Integer
 
 ### Medium (186 Solved)
 - `49`. Group Anagrams
