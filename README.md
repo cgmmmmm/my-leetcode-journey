@@ -148,7 +148,7 @@
 - `2485`. Find the Pivot Integer
 - `263`. Ugly Number
 
-### Medium (186 Solved)
+### Medium (187 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -335,6 +335,7 @@
 - `3899`. Angles of a Triangle
 - `1828`. Queries on Number of Points Inside a Circle
 - `22`. Generate Parentheses
+- `1352`. Product of the Last K Numbers (Naive✅, Optimized❌)
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
