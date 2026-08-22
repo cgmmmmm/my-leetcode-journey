@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (147 Solved)
+### Easy (148 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -148,6 +148,7 @@
 - `2485`. Find the Pivot Integer
 - `263`. Ugly Number
 - `4024`. Nearest Available Drone
+- `1365`. How Many Numbers Are Smaller Than the Current Number
 
 ### Medium (187 Solved)
 - `49`. Group Anagrams
