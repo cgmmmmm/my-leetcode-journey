@@ -151,7 +151,7 @@
 - `1365`. How Many Numbers Are Smaller Than the Current Number
 - `448`. Find All Numbers Disappeared in an Array
 
-### Medium (187 Solved)
+### Medium (188 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -339,6 +339,7 @@
 - `1828`. Queries on Number of Points Inside a Circle
 - `22`. Generate Parentheses
 - `1352`. Product of the Last K Numbers (Naive✅, Optimized❌)
+- `1441`. Build an Array With Stack Operations
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
