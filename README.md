@@ -340,6 +340,7 @@
 - `22`. Generate Parentheses
 - `1352`. Product of the Last K Numbers (Naive✅, Optimized❌)
 - `1441`. Build an Array With Stack Operations
+- `636`. Exclusive Time of Functions
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
