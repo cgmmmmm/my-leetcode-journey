@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (149 Solved)
+### Easy (150 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -150,6 +150,7 @@
 - `4024`. Nearest Available Drone
 - `1365`. How Many Numbers Are Smaller Than the Current Number
 - `448`. Find All Numbers Disappeared in an Array
+- `1475`. Final Prices With a Special Discount in a Shop
 
 ### Medium (189 Solved)
 - `49`. Group Anagrams
