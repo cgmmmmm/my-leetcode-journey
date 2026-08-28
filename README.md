@@ -152,7 +152,7 @@
 - `448`. Find All Numbers Disappeared in an Array
 - `1475`. Final Prices With a Special Discount in a Shop
 
-### Medium (189 Solved)
+### Medium (190 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -342,7 +342,8 @@
 - `1352`. Product of the Last K Numbers (Naive✅, Optimized❌)
 - `1441`. Build an Array With Stack Operations
 - `636`. Exclusive Time of Functions
-- `2904. Shortest and Lexicographically Smallest Beautiful String
+- `2904`. Shortest and Lexicographically Smallest Beautiful String
+- `739`. Daily Temperatures
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
