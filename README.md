@@ -152,7 +152,7 @@
 - `448`. Find All Numbers Disappeared in an Array
 - `1475`. Final Prices With a Special Discount in a Shop
 
-### Medium (191 Solved)
+### Medium (192 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -345,6 +345,7 @@
 - `2904`. Shortest and Lexicographically Smallest Beautiful String
 - `739`. Daily Temperatures
 - `129`. Sum Root to Leaf Numbers
+- `2091`. Removing Minimum and Maximum From Array
 
 ### Hard (19 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
