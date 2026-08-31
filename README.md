@@ -347,7 +347,7 @@
 - `129`. Sum Root to Leaf Numbers
 - `2091`. Removing Minimum and Maximum From Array
 
-### Hard (19 Solved)
+### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -367,6 +367,7 @@
 - `3312`. Sorted GCD Pair Queries
 - `857`. Minimum Cost to Hire K Workers
 - `3518`. Smallest Palindromic Rearrangement II
+- `84`. Largest Rectangle in Histogram
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
