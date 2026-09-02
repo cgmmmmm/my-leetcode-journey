@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (151 Solved)
+### Easy (152 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -152,6 +152,7 @@
 - `448`. Find All Numbers Disappeared in an Array
 - `1475`. Final Prices With a Special Discount in a Shop
 - `1700`. Number of Students Unable to Eat Lunch
+- `2073`. Time Needed to Buy Tickets
 
 ### Medium (192 Solved)
 - `49`. Group Anagrams
