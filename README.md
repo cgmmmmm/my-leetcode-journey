@@ -156,7 +156,7 @@
 - `232`. Implement Queue using Stacks
 - `1046`. Last Stone Weight
 
-### Medium (194 Solved)
+### Medium (195 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -352,6 +352,7 @@
 - `2091`. Removing Minimum and Maximum From Array
 - `3904`. Smallest Stable Index II
 - `646`. Maximum Length of Pair Chain
+- `491`. Non-decreasing Subsequences
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
