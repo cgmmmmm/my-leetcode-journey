@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (154 Solved)
+### Easy (155 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -155,6 +155,7 @@
 - `2073`. Time Needed to Buy Tickets
 - `232`. Implement Queue using Stacks
 - `1046`. Last Stone Weight
+- `3870`. Count Commas in Range
 
 ### Medium (197 Solved)
 - `49`. Group Anagrams
